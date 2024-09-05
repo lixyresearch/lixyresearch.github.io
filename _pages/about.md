@@ -41,6 +41,8 @@ redirect_from:
 
 
 ## 📙 Conference
+- [Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation](https://arxiv.org/abs/2404.01943), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. In Conference on Robot Learning (CoRL) (<font color="#dd0000">Spotlight</font>), 2024.
+  
 - [Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation](https://arxiv.org/abs/2404.01943), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Junjie Hu, Ming Jiang, Shuqiang Jiang. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (<font color="#dd0000">Spotlight</font>), 2024. 
 
 - [GridMM: Grid Memory Map for Vision-and-Language Navigation](https://arxiv.org/abs/2307.12907), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. In Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023.
