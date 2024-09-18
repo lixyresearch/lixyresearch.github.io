@@ -18,7 +18,7 @@ redirect_from:
 # 🔥🔥🔥 News
 - *2024.09.05*: &nbsp;🎉🎉🎉 Our paper <i><strong>Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CoRL 2024</font></strong>!
   
-- *2024.02.27*: &nbsp;🎉🎉🎉 Our paper <i><strong>Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2024</font></strong>!
+- *2024.02.27*: &nbsp;🎉🎉 Our paper <i><strong>Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2024</font></strong>!
 
 # 📝 Publications 
 
