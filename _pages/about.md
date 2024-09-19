@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I am currently an assistant researcher/professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. In 2020, I received the Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. <a href='https://people.ucas.ac.cn/~sqjiang'>Shuqiang Jiang</a>.
+ I am currently an assistant researcher/professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. In 2020, I obtained my Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, where I worked with Prof. <a href='https://people.ucas.ac.cn/~sqjiang'>Shuqiang Jiang</a>.
 
  My research interests include large-scale image classification, vision and language understanding, and Embodied AI. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC member of leading conferences in computer vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
 
@@ -18,7 +18,7 @@ redirect_from:
 # 🔥🔥🔥 News
 - *2024.09.05*: &nbsp;🎉🎉🎉 Our paper <i><strong>Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CoRL 2024</font></strong>!
   
-- *2024.02.27*: &nbsp;🎉🎉 Our paper <i><strong>Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2024</font></strong>!
+- *2024.02.27*: &nbsp;🎉🎉🎉Our paper <i><strong>Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2024</font></strong>!
 
 # 📝 Publications 
 
