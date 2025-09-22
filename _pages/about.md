@@ -23,6 +23,8 @@ redirect_from:
 # 📝 Publications 
 
 ## 📚 Journal
+- [FoodSky: A Food-oriented Large Language Model That Can Pass The Chef And Dietetic Examinations](https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0), Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, **Xiangyang Li**, Shuhuan Me, Shuqiang Jiang. Patterns, 2025.
+
 - [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136), Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
 
 - [TransWeaver: Weave Image Pairs for Class Agnostic Common Object Detection](https://ieeexplore.ieee.org/document/10128957), Xiaoqian Guo, **Xiangyang Li**, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
