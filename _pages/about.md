@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
- I am currently an assistant professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. In 2020, I obtained my Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, where I worked with Prof. <a href='https://people.ucas.ac.cn/~sqjiang'>Shuqiang Jiang</a>.
+ I am currently an assistant professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. In 2020, I obtained my Ph.D. degree from the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, where I worked with Prof. <a href='https://people.ucas.ac.cn/~sqjiang'>Shuqiang Jiang</a>. In 2015, I obtained my Master degree from the Information Engineering College, Capital Normal University, advised by Prof. <a href='https://iec.cnu.edu.cn/szdw/bssds/bssds1/105294.htm'>Zhiping Shi</a>.
 
  My research interests include multimodal content understanding, vision-language grounding and navigation, as well as embodied intelligence. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC member of leading conferences in computer vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
 
