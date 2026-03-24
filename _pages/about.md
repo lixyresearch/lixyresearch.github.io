@@ -14,10 +14,10 @@ redirect_from:
 
  My research interests include multimodal content understanding, vision-language grounding and navigation, as well as embodied intelligence. I have been serving/served as a reviewer of IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, IEEE TBD, and ACM TOMM. I also have been serving/served as a PC member of leading conferences in computer vision, multimedia, and AI, such as CVPR, ICCV, ECCV, ACM MM, IJCAI, and AAAI.
 
- - *2026.03.05*: &nbsp;🎉🎉🎉 Our paper <i><strong> GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
-
 
 # 📝 Publications 
+
+ - *2026.02.21*: &nbsp;🎉🎉🎉 Our paper <i><strong> GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
 
 ## 📚 Journal
 - [FoodSky: A Food-oriented Large Language Model That Can Pass The Chef And Dietetic Examinations](https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0), Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, **Xiangyang Li**, Shuhuan Me, Shuqiang Jiang. Patterns, 2025.
