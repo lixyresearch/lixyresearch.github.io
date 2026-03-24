@@ -17,7 +17,7 @@ redirect_from:
 
 # 📝 Publications 
 
- - *2026.02.21*: &nbsp;🎉🎉🎉 Our paper <i><strong> GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
+ - *2026.02.21*: &nbsp;🎉🎉🎉 Our paper <i><strong>GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
 
 ## 📚 Journal
 - [FoodSky: A Food-oriented Large Language Model That Can Pass The Chef And Dietetic Examinations](https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0), Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, **Xiangyang Li**, Shuhuan Me, Shuqiang Jiang. Patterns, 2025.
@@ -40,6 +40,9 @@ redirect_from:
 
 
 ## 📙 Conference
+
+- [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](https://cvpr.thecvf.com/), Jiahao Yang, Zihan Wang, **Xiangyang Li**, Xing Zhu, Yujun Shen, Yinghao Xu, Shuqiang Jiang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 
+
 - [Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation](https://arxiv.org/abs/2406.09798), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. In Conference on Robot Learning (CoRL), 2024.
   
 - [Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation](https://arxiv.org/abs/2404.01943), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Junjie Hu, Ming Jiang, Shuqiang Jiang. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (<font color="#dd0000">Spotlight</font>), 2024. 
