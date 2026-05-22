@@ -20,6 +20,8 @@ redirect_from:
  - *2026.02.21*: &nbsp;🎉🎉🎉 Our paper <i><strong>GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
 
 ## 📚 Journal
+- [Continual Novel Class Discovery under Domain Shift with Entropy-based Selection and Representation Evolution](https://link.springer.com/article/10.1007/s00530-026-02313-x), Feifei Shi, **Xiangyang Li**, Shuqiang Jiang, Yong Rui.  Multimedia Systems, 2026.
+  
 - [FoodSky: A Food-oriented Large Language Model That Can Pass The Chef And Dietetic Examinations](https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0), Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, **Xiangyang Li**, Shuhuan Me, Shuqiang Jiang. Patterns, 2025.
 
 - [MemBridge: Video-Language Pre-training with Memory-Augmented Inter-Modality Bridge](https://ieeexplore.ieee.org/document/10181136), Jiahao Yang, **Xiangyang Li**, Mao Zheng, Zihan Wang, Yongqing Zhu, Xiaoqian Guo, Yuchen Yuan, Zifeng Chai, Shuqiang Jiang. IEEE Transactions on Image Processing (TIP), 2023.
