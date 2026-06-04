@@ -43,7 +43,7 @@ redirect_from:
 
 ## 📙 Conference
 
-- [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](https://arxiv.org/abs/2605.22036), Jiahao Yang, Zihan Wang, **Xiangyang Li**, Xing Zhu, Yujun Shen, Yinghao Xu, Shuqiang Jiang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 
+- [GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_GA-VLN_Geometry-Aware_BEV_Representation_for_Efficient_Vision-Language_Navigation_CVPR_2026_paper.html), Jiahao Yang, Zihan Wang, **Xiangyang Li**, Xing Zhu, Yujun Shen, Yinghao Xu, Shuqiang Jiang.  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. 
 
 - [Sim-to-Real Transfer via 3D Feature Fields for Vision-and-Language Navigation](https://arxiv.org/abs/2406.09798), Zihan Wang, **Xiangyang Li**, Jiahao Yang, Yeqi Liu, Shuqiang Jiang. In Conference on Robot Learning (CoRL), 2024.
   
