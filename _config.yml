@@ -9,8 +9,8 @@
 
 # Site Settings
 title                    : "XiangyangLi"
-description              : "Assistant Professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)."
-repository               : "xiangangli-cn/lixyresearch.github.io"
+description              : "Associate Professor at the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS)."
+repository               : "lixyresearch/lixyresearch.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
