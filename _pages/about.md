@@ -17,9 +17,13 @@ I am currently an  Associate Professor with the Visual Information Processing an
 
 # 📝 Publications 
 
+ - *2026.11.16*: &nbsp;🎉🎉🎉 Our paper <i><strong>Specify Your Intent: Motion Type Guided Policy for Vision-and-Language Manipulation</strong></i> has been accepted by <strong><font color="Blue">IEEE Transactions on Multimedia (TMM)</font></strong>!
+
  - *2026.02.21*: &nbsp;🎉🎉🎉 Our paper <i><strong>GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation</strong></i> has been accepted by <strong><font color="Blue">CVPR 2026</font></strong>!
 
 ## 📚 Journal
+- [Specify Your Intent: Motion Type Guided Policy for Vision-and-Language Manipulation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), Zicong Wang, **Xiangyang Li**, Yeqi Liu, Yaowei Wang, Shuqiang Jiang. IEEE Transactions on Multimedia (TMM), 2026.
+  
 - [Continual Novel Class Discovery under Domain Shift with Entropy-based Selection and Representation Evolution](https://link.springer.com/article/10.1007/s00530-026-02313-x), Feifei Shi, **Xiangyang Li**, Shuqiang Jiang, Yong Rui.  Multimedia Systems, 2026.
   
 - [FoodSky: A Food-oriented Large Language Model That Can Pass The Chef And Dietetic Examinations](https://www.cell.com/patterns/fulltext/S2666-3899(25)00082-0), Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, **Xiangyang Li**, Shuhuan Me, Shuqiang Jiang. Patterns, 2025.
